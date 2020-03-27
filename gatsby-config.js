@@ -15,6 +15,7 @@ module.exports = {
         plugins: [{
           resolve: "gatsby-tinacms-git",
           options: {
+            gitRemote: 'git@github.com:mattfwood/tinacms-cloud.git',
             sshKey: process.env.SSH_KEY
           }
         },
