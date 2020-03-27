@@ -24,7 +24,7 @@
     "gatsby-remark-responsive-iframe": "^2.2.23",
     "gatsby-remark-smartypants": "^2.1.12",
     "gatsby-source-filesystem": "^2.1.31",
-    "gatsby-tinacms-git": "^0.3.0",
+    "gatsby-tinacms-git": "^0.2.18-canary.25",
     "gatsby-tinacms-json": "^0.8.10",
     "gatsby-tinacms-remark": "^0.7.5",
     "gatsby-transformer-json": "^2.2.20",
